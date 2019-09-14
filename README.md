@@ -34,6 +34,7 @@ Rails 5.2.3
 - レビュー削除機能
 - レビューに対してのお気に入り機能
 
+- おすすめ動画をyoutubeから表示させる機能
 ## カタログ設計
 https://docs.google.com/spreadsheets/d/1Q_5tXNX9dGbiquugUuOk3yiO0peQb7x26Ek8D0CfyNo/edit#gid=1894973311
 
@@ -45,3 +46,11 @@ https://cacoo.com/diagrams/jBFUDWiVLVBh9r3o/D27DB?reload_rt=1568472162706_0
 
 ## 画面遷移図・画面ワイヤーフレーム
 https://xd.adobe.com/view/e637e179-6254-4b02-67ed-ce171fc23bbf-9006/screen/42403ae0-a0de-4087-a09a-73bb815a7964/flick-review
+
+## 使用予定Gem
+gem 'devise'
+gem 'omniauth'
+gem 'kaminari'
+gem 'google-api-client'
+gem 'ransack'
+gem 'carrierwave'
