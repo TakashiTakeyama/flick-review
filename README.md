@@ -48,9 +48,9 @@ https://cacoo.com/diagrams/jBFUDWiVLVBh9r3o/D27DB?reload_rt=1568472162706_0
 https://xd.adobe.com/view/e637e179-6254-4b02-67ed-ce171fc23bbf-9006/screen/42403ae0-a0de-4087-a09a-73bb815a7964/flick-review
 
 ## 使用予定Gem
-gem 'devise'
-gem 'omniauth'
-gem 'kaminari'
-gem 'google-api-client'
-gem 'ransack'
+gem 'devise'  
+gem 'omniauth'  
+gem 'kaminari'  
+gem 'google-api-client'  
+gem 'ransack'  
 gem 'carrierwave'
