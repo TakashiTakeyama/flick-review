@@ -15,23 +15,19 @@ Rails 5.2.3
 
 ## 機能一覧
 - ログイン機能
+- ログアウト機能
 - アドミン機能
-
 
 - ユーザー登録機能
 - ユーザー編集機能
 - ユーザー削除機能
 - ユーザーに対してのフォロー、フォロワー機能  
  
-  
-  
 - 映画ランキング一覧表示機能
 - 映画一覧表示機能に対してのページネーション機能
 - 映画投稿機能
 - 映画編集機能
 - 映画に対してのお気に入り機能
-
-
 
 - レビュー投稿機能
 - レビュー編集機能
@@ -48,4 +44,4 @@ https://docs.google.com/spreadsheets/d/1Ur4ZF7LMbmJB9FZVV8_689tBggykhKgZ0MkedJ8L
 https://cacoo.com/diagrams/jBFUDWiVLVBh9r3o/D27DB?reload_rt=1568472162706_0
 
 ## 画面遷移図・画面ワイヤーフレーム
-
+https://xd.adobe.com/view/e637e179-6254-4b02-67ed-ce171fc23bbf-9006/screen/42403ae0-a0de-4087-a09a-73bb815a7964/flick-review
