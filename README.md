@@ -42,7 +42,7 @@ https://docs.google.com/spreadsheets/d/1Q_5tXNX9dGbiquugUuOk3yiO0peQb7x26Ek8D0Cf
 https://docs.google.com/spreadsheets/d/1Ur4ZF7LMbmJB9FZVV8_689tBggykhKgZ0MkedJ8L-GI/edit#gid=0
 
 ## ER図
-https://cacoo.com/diagrams/jBFUDWiVLVBh9r3o/D27DB?reload_rt=1568472162706_0
+https://cacoo.com/diagrams/jBFUDWiVLVBh9r3o/D27DB
 
 ## 画面遷移図・画面ワイヤーフレーム
 https://xd.adobe.com/view/e637e179-6254-4b02-67ed-ce171fc23bbf-9006/screen/42403ae0-a0de-4087-a09a-73bb815a7964/flick-review
