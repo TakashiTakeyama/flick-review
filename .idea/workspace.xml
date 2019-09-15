@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a932bdc-5dac-42a5-b1fd-c59de40d2144" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/flick-review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flick-review.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -100,8 +92,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <first_editor relative-caret-position="148">
+                <caret line="9" column="19" lean-forward="true" selection-end-line="65" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -419,7 +411,7 @@
       <workItem from="1568463552052" duration="2905000" />
       <workItem from="1568476915560" duration="5152000" />
       <workItem from="1568531256305" duration="2631000" />
-      <workItem from="1568534666768" duration="2897000" />
+      <workItem from="1568534666768" duration="3684000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1568464112352</created>
@@ -474,7 +466,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13585000" />
+    <option name="totallyTimeSpent" value="14372000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,8 +671,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <first_editor relative-caret-position="148">
+            <caret line="9" column="19" lean-forward="true" selection-end-line="65" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
