@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   devise_for :users
   root to:'homes#home'
 
+  get 'categories/create'
+  get 'categories/new'
   if Rails.env.development?
     mount LetterOpenerWeb::Engine, at: "/letter_opener"
   end
